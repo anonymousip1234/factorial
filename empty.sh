@@ -11,6 +11,7 @@ factorial()
 
 echo "Factorial of the given number is" $count
 
+echo "This was demonstration of functions"
 }
 
 read -p "Enter the number: " n
